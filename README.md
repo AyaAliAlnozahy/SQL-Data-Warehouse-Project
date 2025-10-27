@@ -81,16 +81,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Aya Ali Alnozahy**. I’m  passionate with Data Field specially Data Engineer .
 
 
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
 ```
 
-
-## 📂 Repository Structure
-```
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
-
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
