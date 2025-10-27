@@ -80,9 +80,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Aya Ali Alnozahy**. I’m  passionate with Data Field specially Data Engineer .
 
-
-```
-
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
@@ -109,4 +106,5 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
+
+
